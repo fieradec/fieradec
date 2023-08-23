@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**fieradec/fieradec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Biomedical Engineering Student:
 
-Here are some ideas to get you started:
+🌱 I’m currently finishing my master at University of Pavia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 I'm intrested in Digital Health
+
+🤖 I love programming
+
+💪 I am a proud woman in techn
+
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-%20Federica-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/federica-commisso-0041b6256/)
