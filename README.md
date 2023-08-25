@@ -10,4 +10,4 @@ I'm a Biomedical Engineering Student:
 
 💪 I am a proud woman in techn
 
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-%20Federica-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/federica-commisso-0041b6256/)
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-%20Federica-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/federicacommisso/)
